@@ -1,0 +1,9 @@
+{"recipes":
+	[
+        {
+            "input":["fire", "stick"],
+            "output":"torch",
+			"outputAmount"=16
+		}
+    ]
+}

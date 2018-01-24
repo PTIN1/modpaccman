@@ -1,0 +1,15 @@
+{"data":
+    [
+            {
+                "name": "UnrefinedPeterium",            
+                "oreDictNames": ["unrefinedPeterium"],
+                "maxStackSize": "64"
+            },
+			{
+                "name": "PeteriumIngot",            
+                "oreDictNames": ["peteriumIngot"],
+                "maxStackSize": "8",
+                "burnTime": "9001"
+            }
+    ]
+}
