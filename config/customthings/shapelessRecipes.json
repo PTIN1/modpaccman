@@ -1,9 +1,9 @@
-{"recipes":
-	[
+{"data":
+    [
         {
-            "input":["fire", "stick"],
-            "output":"torch",
-			"outputAmount"=16
-		}
+            "input":["minecraft:fire", "minecraft:stick"],
+            "output":"minecraft:torch",
+						"outputAmount":16
+        }
     ]
 }
